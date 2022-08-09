@@ -13,6 +13,9 @@ numpy = "*"
 plotly = "*"
 streamlit = "*"
 openpyxl = "*"
+csvs-to-sqlite = "*"
+datasette = "*"
+streamlit-aggrid = "*"
 
 [dev-packages]
 
