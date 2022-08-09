@@ -11,6 +11,8 @@ pathlib = "*"
 pandas = "*"
 numpy = "*"
 plotly = "*"
+streamlit = "*"
+openpyxl = "*"
 
 [dev-packages]
 
